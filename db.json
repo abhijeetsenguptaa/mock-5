@@ -21,6 +21,72 @@
             "hourly_rate": 30,
             "profile_picture": "profile2.jpg",
                   "isBooked" : true
+          },
+        {
+            "id": 3,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": ["HTML", "CSS", "JavaScript"],
+            "hourly_rate": 25,
+            "profile_picture": "profile1.jpg",
+                  "isBooked" : false
+          },
+          {
+            "id": 4,
+            "name": "Jane Smith",
+            "email": "jane@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": ["Photoshop", "Illustrator"],
+            "hourly_rate": 30,
+            "profile_picture": "profile2.jpg",
+                  "isBooked" : true
+          },
+        {
+            "id": 5,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": ["HTML", "CSS", "JavaScript"],
+            "hourly_rate": 25,
+            "profile_picture": "profile1.jpg",
+                  "isBooked" : false
+          },
+          {
+            "id": 6,
+            "name": "Jane Smith",
+            "email": "jane@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": ["Photoshop", "Illustrator"],
+            "hourly_rate": 30,
+            "profile_picture": "profile2.jpg",
+                  "isBooked" : true
+          },
+        {
+            "id": 7,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": ["HTML", "CSS", "JavaScript"],
+            "hourly_rate": 25,
+            "profile_picture": "profile1.jpg",
+                  "isBooked" : false
+          },
+          {
+            "id": 8,
+            "name": "Jane Smith",
+            "email": "jane@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": ["Photoshop", "Illustrator"],
+            "hourly_rate": 30,
+            "profile_picture": "profile2.jpg",
+                  "isBooked" : true
           }
     ]
 }
