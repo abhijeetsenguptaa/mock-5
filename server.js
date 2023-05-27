@@ -6,16 +6,6 @@ const middleware = jsonServer.defaults()
 
 
 app.use(middleware);
-
-app.use((req,res,next)=>{
-    let token = req.headers.Authorization;
-    if(token){
-        next()
-    }else{
-        res.send('Protected Route!')
-    }
-})
-
 app.use(route);
 
 
