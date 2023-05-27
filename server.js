@@ -8,7 +8,7 @@ const middleware = jsonServer.defaults()
 app.use(middleware);
 
 app.use((req,res,next)=>{
-    let token = req.headers.authorization;
+    let token = req.headers.Authorization;
     if(token){
         next()
     }else{
